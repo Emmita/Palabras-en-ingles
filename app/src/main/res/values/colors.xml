@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#009688</color>
+    <color name="primary_dark_color">#004D40</color>
+    <color name="category_numbers">#A7FFEB</color>
+    <color name="category_days">#64FFDA</color>
+    <color name="category_colors">#1DE9B6</color>
+    <color name="category_months">#00BFA5</color>
+</resources>

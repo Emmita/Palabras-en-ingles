@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="english_color_red">Red</string>
+    <string name="english_color_blue">Blue</string>
+    <string name="english_color_yellow">Yellow</string>
+    <string name="english_color_black">Black</string>
+    <string name="english_color_white">White</string>
+    <string name="english_color_orange">Orange</string>
+    <string name="english_color_purple">Purple</string>
+    <string name="english_color_green">Green</string>
+    <string name="english_color_gray">Gray</string>
+    <string name="english_color_brown">Brown</string>
+    <string name="english_number_zero">Zero</string>
+    <string name="english_number_one">One</string>
+    <string name="english_number_two">Two</string>
+    <string name="english_number_three">Three</string>
+    <string name="english_number_four">Four</string>
+    <string name="english_number_five">Five</string>
+    <string name="english_number_six">Six</string>
+    <string name="english_number_seven">Seven</string>
+    <string name="english_number_eight">Eight</string>
+    <string name="english_number_nine">Nine</string>
+    <string name="english_number_ten">Ten</string>
+    <string name="english_day_monday">Monday</string>
+    <string name="english_day_tuesday">Tuesday</string>
+    <string name="english_day_wednesday">Wednesday</string>
+    <string name="english_day_thursday">Thursday</string>
+    <string name="english_day_friday">Friday</string>
+    <string name="english_day_saturday">Saturday</string>
+    <string name="english_day_sunday">Sunday</string>
+    <string name="english_month_january">January</string>
+    <string name="english_month_february">February</string>
+    <string name="english_month_march">March</string>
+    <string name="english_month_april">April</string>
+    <string name="english_month_may">May</string>
+    <string name="english_month_june">June</string>
+    <string name="english_month_july">July</string>
+    <string name="english_month_august">August</string>
+    <string name="english_month_september">September</string>
+    <string name="english_month_october">October</string>
+    <string name="english_month_november">November</string>
+    <string name="english_month_december">December</string>
+</resources>

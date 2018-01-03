@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">English</string>
+
+    <string name="category_days">Dias</string>
+    <string name="category_colors">Colores</string>
+    <string name="category_months">Meses</string>
+    <string name="category_numbers">Numeros</string>
+    <string name="color_red">Rojo</string>
+    <string name="color_blue">Azul</string>
+    <string name="color_yellow">Amarillo</string>
+    <string name="color_black">Negro</string>
+    <string name="color_white">Blanco</string>
+    <string name="color_orange">Naranja</string>
+    <string name="color_purple">Púrpura</string>
+    <string name="color_green">Verde</string>
+    <string name="color_gray">Gris</string>
+    <string name="color_brown">Marrón</string>
+    <string name="number_zero">Cero</string>
+    <string name="number_one">Uno</string>
+    <string name="number_two">Dos</string>
+    <string name="number_three">Tres</string>
+    <string name="number_four">Cuatro</string>
+    <string name="number_five">Cinco</string>
+    <string name="number_six">Seis</string>
+    <string name="number_seven">Siete</string>
+    <string name="number_eight">Ocho</string>
+    <string name="number_nine">Nueve</string>
+    <string name="number_ten">Diez</string>
+    <string name="day_monday">Lunes</string>
+    <string name="day_tuesday">Martes</string>
+    <string name="day_wednesday">Miércoles</string>
+    <string name="day_thursday">Jueves</string>
+    <string name="day_friday">Viernes</string>
+    <string name="day_saturday">Sábado</string>
+    <string name="day_sunday">Domingo</string>
+    <string name="month_january">Enero</string>
+    <string name="month_february">Febrero</string>
+    <string name="month_march">Marzo</string>
+    <string name="month_april">Abril</string>
+    <string name="month_may">Mayo</string>
+    <string name="month_june">Junio</string>
+    <string name="month_july">Julio</string>
+    <string name="month_august">Agosto</string>
+    <string name="month_september">Septiembre</string>
+    <string name="month_october">Octubre</string>
+    <string name="month_november">Noviembre</string>
+    <string name="month_december">Diciembre</string>
+
+
+</resources>
