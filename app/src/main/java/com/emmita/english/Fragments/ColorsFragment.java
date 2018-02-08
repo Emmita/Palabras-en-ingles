@@ -24,6 +24,8 @@ import java.util.ArrayList;
  */
 public class ColorsFragment extends Fragment {
 
+
+
     //La clase MediaPlayer ayuda en la reproducción de los sonidos que están dentro del fragment
     private MediaPlayer mMediaPlayer;
 

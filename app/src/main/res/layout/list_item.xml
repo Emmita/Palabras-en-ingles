@@ -11,16 +11,20 @@
         android:layout_height="@dimen/list_item_height"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
         android:orientation="vertical"
-        android:paddingLeft="16dp">
+        android:paddingStart="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="0dp"
+        android:paddingEnd="0dp">
 
         <TextView
             android:id="@+id/english_text_view"
             android:layout_width="match_parent"
             android:layout_height="44dp"
             android:gravity="bottom"
-            android:text="one"
+            android:text="@string/english_number_one"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="#000000"
             android:textStyle="bold" />
@@ -31,10 +35,9 @@
             android:layout_height="44dp"
             android:layout_below="@id/english_text_view"
             android:gravity="top"
-            android:text="uno"
+            android:text="@string/number_one"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="#37474F" />
-
 
 
     </RelativeLayout>
